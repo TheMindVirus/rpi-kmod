@@ -10,3 +10,5 @@ remove:
 	rmmod kmod
 status:
 	cat /var/log/messages
+edit:
+	nano ./kmod.c
