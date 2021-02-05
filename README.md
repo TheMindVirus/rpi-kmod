@@ -9,10 +9,12 @@ A text file is written to /home/pi/Desktop/logfile.txt by default.
 
 `make` - builds the Kernel Module
 
-`make install` - installs the Kernel Module into Linux (if `make` was successful)
+`make clean` - clears up all intermediate files of the Kernel Module
 
-`make status` - checks the status of all Kernel Modules (output of `printk()`)
+`make install` - installs the Kernel Module into Linux (if `make` was successful)
 
 `make remove` - uninstalls the Kernel Module from Linux (if previously installed)
 
-`make clean` - clears up all intermediate files of the Kernel Module
+`make status` - checks the status of all Kernel Modules (output of `printk()`)
+
+`make edit` - edits the source code of the Kernel Module using the nano text editor
