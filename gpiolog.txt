@@ -1,0 +1,65 @@
+[CALL]: init_module
+[INFO]: BEGIN_READ
+[MMIO]: Address: 0xFE200000 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200004 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200008 | Value: 0x12000000 |     
+[MMIO]: Address: 0xFE20000C | Value: 0x3FFFFFFF | ?   
+[MMIO]: Address: 0xFE200010 | Value: 0x00000064 |    d
+[MMIO]: Address: 0xFE200014 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200018 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE20001C | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE200020 | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE200024 | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE200028 | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE20002C | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE200030 | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE200034 | Value: 0x1040C1FF |  @  
+[MMIO]: Address: 0xFE200038 | Value: 0x00003BFB |   ; 
+[MMIO]: Address: 0xFE20003C | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200040 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200044 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200048 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE20004C | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200050 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200054 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200058 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE20005C | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200060 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200064 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200068 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE20006C | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200070 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200074 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200078 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE20007C | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200080 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200084 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200088 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE20008C | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200090 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200094 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE200098 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE20009C | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000A0 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000A4 | Value: 0xFFFFFFFF |     
+[MMIO]: Address: 0xFE2000A8 | Value: 0x03FFFFFF |     
+[MMIO]: Address: 0xFE2000AC | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE2000B0 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000B4 | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE2000B8 | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE2000BC | Value: 0x6770696F | gpio
+[MMIO]: Address: 0xFE2000C0 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000C4 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000C8 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000CC | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000D0 | Value: 0x00000001 |     
+[MMIO]: Address: 0xFE2000D4 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000D8 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000DC | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000E0 | Value: 0x00000000 |     
+[MMIO]: Address: 0xFE2000E4 | Value: 0x4AA95555 | J UU
+[MMIO]: Address: 0xFE2000E8 | Value: 0x19AAAAAA |     
+[MMIO]: Address: 0xFE2000EC | Value: 0xA5505544 |  PUD
+[MMIO]: Address: 0xFE2000F0 | Value: 0x000AAAAA |     
+[INFO]: END_READ
+[CALL]: cleanup_module
